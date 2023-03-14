@@ -13,3 +13,10 @@ S. Parvathi
 
 Late Single Month:
 Raja DSP Garments
+
+Returned        	Purchase	Loss
+Jayawani	        326555.98	411313	84757.02
+Lakshmipriya	    113502.54	147411	33908.46
+Gomathi Shankar	    357620.14	578222	220601.86
+Sri Haringa Tex		37200	    37200
+Nisitha Garments	94877.32	141363	46485.68
